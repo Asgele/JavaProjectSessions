@@ -4,7 +4,7 @@ public class BankingAccount {
 
 	public static void main(String[] args) {
 	//create Sam account	
-   Account samiccount = new Account("Sami","Gebre",1000, 5000);
+   Account samiccount = new Account("Sami","Gebre", 5000);
    Account hailuAccount = new Account("Hailu","Abebe",6000);
    Account kbromcount = new Account("Kbrom","Brihe",7000);
    Account genetAccount = new Account("Genet","tesfu",8000);

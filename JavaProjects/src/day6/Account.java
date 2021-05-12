@@ -12,7 +12,7 @@ public class Account {
 		
 	//constructors
 	
- public Account(String firstName ,String LastName,double balance) {
+ public Account(String firstName ,String LastName, double balance) {
 		this.firstName = firstName;
 		this.lastName = lastName;		
         accountIncrment = accountIncrment + 1;
@@ -20,6 +20,7 @@ public class Account {
 	    this.balance = balance;
 	}
 	//getter and setter
+	
 	
 	public String getFirstName() {
 	return firstName;
