@@ -16,7 +16,7 @@ public class Quaestion2 {
 	}
 	
 	else if (letter2 == "") {  
-		System.out.println("That's not thes tring:" + letter);		
+		System.out.println("That's not the  string:" + letter);		
 	}
 	else {	
 	
